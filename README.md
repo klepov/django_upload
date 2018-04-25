@@ -15,7 +15,7 @@ POST http://176.56.50.175:7777/image/upload/
 `
 curl -X POST \
   http://176.56.50.175:7777/image/upload/ \
-  -H 'authorization: Token 		8be127eb55776220316b93f503b9c48e7073beb5' \
+  -H 'authorization: Token 		fa875452fd22daad687c77df67e59f5ee4d25bc7' \
   -H 'cache-control: no-cache' \
   -H 'content-type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW' \
   -H 'postman-token: d689c890-c12a-be48-b4e6-f3ed802933cc' \
@@ -34,7 +34,7 @@ curl -X POST \
 `
 curl -X POST \
   http://176.56.50.175:7777/image/upload/ \
-  -H 'authorization: Token 		8be127eb55776220316b93f503b9c48e7073beb5' \
+  -H 'authorization: Token 		fa875452fd22daad687c77df67e59f5ee4d25bc7' \
   -H 'cache-control: no-cache' \
   -H 'content-type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW' \
   -H 'postman-token: f07531bc-8912-d2e2-6964-5f0de37aeddd' \
