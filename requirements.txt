@@ -1,0 +1,7 @@
+requests
+Django
+Pillow
+django_imagekit
+djangorestframework
+django-celery
+
