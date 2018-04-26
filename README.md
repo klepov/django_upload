@@ -9,8 +9,8 @@
 * `python3 manage.py runserver <ip:port>`
 * `celery worker -A django_upload --loglevel=debug --concurrency=1`
 
-`можно использовать мой адрес для теста <ip:port>=http://176.56.50.175:7777`
-`токены получать через админку, если использовать мой сервер, то токен <token> = fa875452fd22daad687c77df67e59f5ee4d25bc7`
+* `можно использовать мой адрес для теста <ip:port>=http://176.56.50.175:7777`
+* `токены получать через админку, если использовать мой сервер, то токен <token> = fa875452fd22daad687c77df67e59f5ee4d25bc7`
 запросы 
 
 POST http://<ip:port>/image/upload/
